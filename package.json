@@ -30,7 +30,7 @@
     "minimatch": "10.0.1"
   },
   "devDependencies": {
-    "@agaroot/eslint-config-common": "3.0.5",
+    "@agaroot/eslint-config-common": "3.0.6",
     "@agaroot/eslint-config-definer": "1.0.5",
     "@agaroot/eslint-config-javascript": "2.0.7",
     "@agaroot/eslint-config-jest": "3.0.8",
