@@ -2,7 +2,7 @@
   "$schema": "https://unpkg.com/@changesets/config@2.3.1/schema.json",
   "changelog": [
     "@changesets/changelog-github",
-    { "repo": "agaroot-technologies/action-restrict-pr-label" }
+    { "repo": "praha-inc/action-restrict-pr-label" }
   ],
   "commit": false,
   "fixed": [],

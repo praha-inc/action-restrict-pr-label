@@ -1,15 +1,15 @@
 {
-  "name": "@agaroot/action-restrict-pr-label",
+  "name": "@praha/action-restrict-pr-label",
   "version": "1.0.0",
   "private": true,
   "description": "Restrict pull request labels based on the combination of the base and head branches",
-  "homepage": "https://github.com/agaroot-technologies/action-restrict-pr-label",
+  "homepage": "https://github.com/praha-inc/action-restrict-pr-label",
   "bugs": {
-    "url": "https://github.com/agaroot-technologies/action-restrict-pr-label/issues"
+    "url": "https://github.com/praha-inc/action-restrict-pr-label/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/agaroot-technologies/action-restrict-pr-label.git"
+    "url": "git+https://github.com/praha-inc/action-restrict-pr-label.git"
   },
   "license": "MIT",
   "type": "module",
@@ -30,14 +30,14 @@
     "minimatch": "10.0.1"
   },
   "devDependencies": {
-    "@agaroot/eslint-config-common": "3.0.6",
-    "@agaroot/eslint-config-definer": "1.0.5",
-    "@agaroot/eslint-config-javascript": "2.0.7",
-    "@agaroot/eslint-config-jest": "3.0.8",
-    "@agaroot/eslint-config-style": "2.0.9",
-    "@agaroot/eslint-config-typescript": "2.0.8",
     "@changesets/changelog-github": "0.5.0",
     "@changesets/cli": "2.27.9",
+    "@praha/eslint-config-common": "3.0.6",
+    "@praha/eslint-config-definer": "1.0.5",
+    "@praha/eslint-config-javascript": "2.0.7",
+    "@praha/eslint-config-jest": "3.0.8",
+    "@praha/eslint-config-style": "2.0.9",
+    "@praha/eslint-config-typescript": "2.0.8",
     "@swc/core": "1.9.1",
     "@swc/jest": "0.2.37",
     "@tsconfig/node20": "20.1.4",

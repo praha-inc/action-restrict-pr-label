@@ -1,4 +1,4 @@
-# @agaroot/action-restrict-pr-label
+# @praha/action-restrict-pr-label
 
 ## 1.0.0
 
