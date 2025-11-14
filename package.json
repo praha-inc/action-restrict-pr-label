@@ -41,7 +41,7 @@
     "@swc/core": "1.12.9",
     "@swc/jest": "0.2.38",
     "@tsconfig/node20": "20.1.7",
-    "@tsconfig/strictest": "2.0.7",
+    "@tsconfig/strictest": "2.0.8",
     "@types/jest": "29.5.14",
     "@types/node": "20.16.6",
     "@vercel/ncc": "0.38.4",
