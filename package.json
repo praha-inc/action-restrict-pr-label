@@ -43,7 +43,7 @@
     "@tsconfig/node20": "20.1.8",
     "@tsconfig/strictest": "2.0.8",
     "@types/jest": "29.5.14",
-    "@types/node": "20.16.6",
+    "@types/node": "20.19.25",
     "@vercel/ncc": "0.38.4",
     "eslint": "8.57.1",
     "jest": "29.7.0",
