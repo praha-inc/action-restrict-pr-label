@@ -27,7 +27,7 @@
   "dependencies": {
     "@actions/core": "1.11.1",
     "@actions/github": "6.0.1",
-    "minimatch": "10.1.1"
+    "minimatch": "10.2.5"
   },
   "devDependencies": {
     "@changesets/changelog-github": "0.7.0",
